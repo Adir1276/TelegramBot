@@ -56,7 +56,7 @@ public class PollsBot extends TelegramLongPollingBot {
 
     @Override
     public String getBotToken() {
-        return "7803763085:AAGyrrbL-S7JX8AE34ZWKUkvR2hP1biJZ04";
+        return "REDACTED";
     }
 
     public void addNewMember(Long chatId) {
